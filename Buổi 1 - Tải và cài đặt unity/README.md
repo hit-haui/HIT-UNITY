@@ -3,7 +3,7 @@
 ### Bước 1 :  Truy cập trang chủ và tải về file UnityHub.exe tại link
 
 <details><summary>CLICK TO SEE</summary>
-<<p><a href="https://store.unity.com/download">https://store.unity.com/download</a></p>
+<p><a href="https://store.unity.com/download">https://store.unity.com/download</a></p>
 
 <figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-16-1024x576.png" alt="" class="wp-image-1544" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-16-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-16-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-16-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </details>
@@ -58,7 +58,7 @@
 
 
 
-<figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-22-1024x576.png" alt="" class="wp-image-1554" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-22-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-22-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-22-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+![image-23-1024x576](https://user-images.githubusercontent.com/52252046/103736316-91ca5a80-5022-11eb-9546-f9aae3c8aa23.png)
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-23-1024x576.png" alt="" class="wp-image-1555" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-23-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-23-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-23-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+![image-22-1024x576](https://user-images.githubusercontent.com/52252046/103736315-90992d80-5022-11eb-9528-cbc6e276e679.png)
 
 
 
