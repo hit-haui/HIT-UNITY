@@ -2,13 +2,16 @@
 ## Buổi 0: Git, GitHub và những câu lệnh của Git cơ bản
 ### I.Định nghĩa
 #### (1) Git
+<details><summary>Xem nội dung</summary>
 - Có thể hiểu đơn giản. Git giống như một chiếc xe vận chuyển code để lưu trữ giữa máy tính (local) và kho github (remote).
   - Lưu trữ `mốc thời gian` code của bạn, điều này giúp bạn có thể trở về quá khứ để lấy lại code cũ do những sai sót trong lúc code
   - Tạo một `bản miêu tả` sơ qua những gì bạn muốn một cách vừa đẹp vừa dễ dàng với README.md
   - Các thao tác giúp bạn và mọi người `cùng làm dự án` một cách quy củ, hợp lí (phần này gồm rất nhiều chi tiết như branch, pull requests, ...)
   - .... Còn cả một kho tàng của GitHub nữa mà các bạn có thể đọc thêm ở [link này](https://en.wikipedia.org/wiki/GitHub)
 - Git là một công cụ vận chuyển code bằng các câu lệnh máy tính thông qua một số phần mềm như GitBash, GitDesktop, ....
+</details>
 ##### Các câu lệnh của git
+<details><summary>Xem nội dung</summary>
 - Làm quen với cách vận chuyển của GitBash thông qua một số câu lệnh thường dùng
   - `git status` ( Kiểm tra các file bị thay đổi đã được git quản lí hay chưa )
     * Xanh là được quản lí, đỏ là chưa được quản lí
@@ -24,6 +27,7 @@
     * git clone + "Đường dẫn đến repos" => Chỉ để tải repos
   - `git pull` ( Cập nhật những cái trên repos trên mạng có mà repos trên máy ko có )
     * git pull => Tự tìm đến nhánh trên máy để pull về
+</details>
 - Cách tạo một file txt trên GitHub: vào phần `create new file` ở repos để tạo
   - Hình ảnh hướng dẫn [Xem thêm](image-guide-1.md)
 - Cách thêm một người cho repos của bạn
