@@ -31,20 +31,23 @@
   - `git pull` ( Cập nhật những cái trên repos trên mạng có mà repos trên máy ko có )
     * git pull => Tự tìm đến nhánh trên máy để pull về
 </details>
-
-- Cách tạo một file txt trên GitHub: vào phần `create new file` ở repos để tạo
-  - Hình ảnh hướng dẫn [Xem thêm](image-guide-1.md)
-- Cách thêm một người cho repos của bạn
-  - Hình ảnh hướng dẫn [Xem thêm](image-guide-2.md)
   
 ### (2) Github
 #### Khái niệm
-- Github đơn giản là một cái mạng xã hội code, hay là một kho lưu trữ
+<details><summary>Xem nội dung</summary>
+- Làm quen với cách vận chuyển của GitBash thông qua một số câu lệnh thường dùng
+  - Github đơn giản là một cái mạng xã hội code, hay là một kho lưu trữ
   - Ở đây bạn hoàn toàn có thể lưu lại từng phần code của mình một. Cụ thể như sau
      - VD: Bạn có lưu code của project A. Sau đó bạn lại chỉnh sửa và code thêm vào. Bạn để git quản lí. Toàn bộ cấu trúc trong thư mục của mỗi lần bạn thêm, sửa, xóa sẽ được lưu bởi git.
   - Github cũng giống như một mạng xã hội. Hoàn toàn có thể chia sẻ code, viết những ý kiến vào trong project, ...
+</details>
+
 ### (3) Tổng kết
 - Giới thiệu và làm quen các thành viên trong lớp
 - Biết tổng quan về Git, GitHub và các câu lệnh của Git
 - Sử dụng các câu lệnh để có thể lưu trữ
-
+- Xem thêm:
+  - Cách tạo một file txt trên GitHub: vào phần `create new file` ở repos để tạo
+    - Hình ảnh hướng dẫn [Xem thêm](image-guide-1.md)
+  - Cách thêm một người cho repos của bạn
+    - Hình ảnh hướng dẫn [Xem thêm](image-guide-2.md)
