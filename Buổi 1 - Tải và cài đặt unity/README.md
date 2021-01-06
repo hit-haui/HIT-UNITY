@@ -2,28 +2,21 @@
 ## Các bước cài đặt Unity
 ### Bước 1 :  Truy cập trang chủ và tải về file UnityHub.exe tại link
 
-
-
-<p><a href="https://store.unity.com/download">https://store.unity.com/download</a></p>
-
-
+<details><summary>CLICK TO SEE</summary>
+<<p><a href="https://store.unity.com/download">https://store.unity.com/download</a></p>
 
 <figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-16-1024x576.png" alt="" class="wp-image-1544" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-16-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-16-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-16-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
+</details>
 
 ### Bước 2 : Sau khi cài đặt file UnityHubSetup.exe, truy cập Sign In để đăng nhập
 
-
-
+<details><summary>CLICK TO SEE</summary>
 <figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-17-1024x576.png" alt="" class="wp-image-1545" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-17-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-17-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-17-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
+</details>
 
 ### Bước 3 : Truy cập Install -&gt; Click add. lựa chọn phiên bản mới nhất
 
-
-
+<details><summary>CLICK TO SEE</summary>
 <figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-18-1024x576.png" alt="" class="wp-image-1547" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-18-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-18-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-18-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -85,3 +78,6 @@
 
 
 <figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-26-1024x576.png" alt="" class="wp-image-1560" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-26-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-26-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-26-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+</details>
+
