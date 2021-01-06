@@ -17,7 +17,9 @@
 ### Bước 3 : Truy cập Install -&gt; Click add. lựa chọn phiên bản mới nhất
 
 <details><summary>CLICK TO SEE</summary>
+  
 <figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-18-1024x576.png" alt="" class="wp-image-1547" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-18-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-18-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-18-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
 
 
 
