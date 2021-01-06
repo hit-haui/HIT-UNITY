@@ -50,15 +50,16 @@
 
 
 
-<figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-25-1024x576.png" alt="" class="wp-image-1558" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-25-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-25-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-25-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+![image-25-1024x576](https://user-images.githubusercontent.com/52252046/103736455-e1a92180-5022-11eb-9666-70f5525a5a5e.png)
+
 
 
 
 <p>Kế tiếp chúng ta tạo project mới . Click New</p>
 
 
+![image-22-1024x576](https://user-images.githubusercontent.com/52252046/103736315-90992d80-5022-11eb-9528-cbc6e276e679.png)
 
-![image-23-1024x576](https://user-images.githubusercontent.com/52252046/103736316-91ca5a80-5022-11eb-9546-f9aae3c8aa23.png)
 
 
 
@@ -66,7 +67,7 @@
 
 
 
-![image-22-1024x576](https://user-images.githubusercontent.com/52252046/103736315-90992d80-5022-11eb-9528-cbc6e276e679.png)
+![image-23-1024x576](https://user-images.githubusercontent.com/52252046/103736316-91ca5a80-5022-11eb-9546-f9aae3c8aa23.png)
 
 
 
