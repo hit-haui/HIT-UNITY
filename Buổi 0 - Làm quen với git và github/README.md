@@ -15,7 +15,7 @@
   - .... Còn cả một kho tàng của GitHub nữa mà các bạn có thể đọc thêm ở [link này](https://en.wikipedia.org/wiki/GitHub)
 </details>
 
-##### Các câu lệnh của git
+#### Các câu lệnh của git
 
 <details><summary>Xem nội dung</summary>
 - Làm quen với cách vận chuyển của GitBash thông qua một số câu lệnh thường dùng
