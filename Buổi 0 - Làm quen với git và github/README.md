@@ -4,7 +4,7 @@
 #### Khái niệm
 
 <details><summary>Xem nội dung</summary>
-- Có thể hiểu đơn giản. Git giống như một chiếc xe vận chuyển code để lưu trữ giữa máy tính (local) và kho github (remote).
+- Có thể hiểu đơn giản. Git giống như một chiếc xe vận chuyển code để lưu trữ giữa máy tính (local) và kho github (remote). Git là một công cụ vận chuyển code bằng các câu lệnh máy tính thông qua một số phần mềm như GitBash, GitDesktop, ....
   
   - Lưu trữ `mốc thời gian` code của bạn, điều này giúp bạn có thể trở về quá khứ để lấy lại code cũ do những sai sót trong lúc code
   
@@ -13,9 +13,6 @@
   - Các thao tác giúp bạn và mọi người `cùng làm dự án` một cách quy củ, hợp lí (phần này gồm rất nhiều chi tiết như branch, pull requests, ...)
   
   - .... Còn cả một kho tàng của GitHub nữa mà các bạn có thể đọc thêm ở [link này](https://en.wikipedia.org/wiki/GitHub)
-  
-- Git là một công cụ vận chuyển code bằng các câu lệnh máy tính thông qua một số phần mềm như GitBash, GitDesktop, ....
-
 </details>
 
 ##### Các câu lệnh của git
