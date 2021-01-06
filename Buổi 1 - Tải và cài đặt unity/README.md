@@ -16,16 +16,11 @@
 
 ### Bước 3 : Truy cập Install -&gt; Click add. lựa chọn phiên bản mới nhất
 
-<details><summary>CLICK TO SEE</summary>
+<details> <summary>CLICK TO SEE</summary>
   
-<figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-18-1024x576.png" alt="" class="wp-image-1547" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-18-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-18-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-18-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
+![image-19-1024x576](https://user-images.githubusercontent.com/52252046/103735756-554a2f00-5021-11eb-80fb-e0fdb0326193.png)
 
 <p>Lựa chọn các module cần thiết và nhấn tiếp tục </p>
-
-
 
 <figure class="wp-block-image"><img src="http://www.dotplays.com/wp-content/uploads/2019/11/image-19-1024x576.png" alt="" class="wp-image-1548" srcset="http://www.dotplays.com/wp-content/uploads/2019/11/image-19-1024x576.png 1024w, http://www.dotplays.com/wp-content/uploads/2019/11/image-19-300x169.png 300w, http://www.dotplays.com/wp-content/uploads/2019/11/image-19-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
