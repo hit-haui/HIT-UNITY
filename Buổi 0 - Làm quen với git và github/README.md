@@ -2,8 +2,6 @@
 ## Buổi 0: Git, GitHub và những câu lệnh của Git cơ bản
 ### (1) Git
 #### Khái niệm
-
-<details><summary>[Xem nội dung]</summary>
 - Có thể hiểu đơn giản. Git giống như một chiếc xe vận chuyển code để lưu trữ giữa máy tính (local) và kho github (remote). Git là một công cụ vận chuyển code bằng các câu lệnh máy tính thông qua một số phần mềm như GitBash, GitDesktop, ....
   
   - Lưu trữ `mốc thời gian` code của bạn, điều này giúp bạn có thể trở về quá khứ để lấy lại code cũ do những sai sót trong lúc code
@@ -13,7 +11,6 @@
   - Các thao tác giúp bạn và mọi người `cùng làm dự án` một cách quy củ, hợp lí (phần này gồm rất nhiều chi tiết như branch, pull requests, ...)
   
   - .... Còn cả một kho tàng của GitHub nữa mà các bạn có thể đọc thêm ở [link này](https://en.wikipedia.org/wiki/GitHub)
-</details>
 
 #### Các câu lệnh của git
 
@@ -51,7 +48,6 @@
   
 ### (2) Github
 #### Khái niệm
-<details><summary>[Xem nội dung]</summary>
 - Làm quen với cách vận chuyển của GitBash thông qua một số câu lệnh thường dùng
   
   - Github đơn giản là một cái mạng xã hội code, hay là một kho lưu trữ
@@ -61,7 +57,6 @@
      - VD: Bạn có lưu code của project A. Sau đó bạn lại chỉnh sửa và code thêm vào. Bạn để git quản lí. Toàn bộ cấu trúc trong thư mục của mỗi lần bạn thêm, sửa, xóa sẽ được lưu bởi git.
      
   - Github cũng giống như một mạng xã hội. Hoàn toàn có thể chia sẻ code, viết những ý kiến vào trong project, ...
-</details>
 
 ### (3) Tổng kết
 - Giới thiệu và làm quen các thành viên trong lớp
