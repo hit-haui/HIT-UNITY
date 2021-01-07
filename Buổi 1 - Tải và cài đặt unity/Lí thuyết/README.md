@@ -67,6 +67,7 @@ Trong Unity có thể dùng C#, Java Script, BOO để lập trình Script.</p>
 </details>
 
 ### CÁC HÀM CHÍNH TRONG THƯ VIỆN MONOBEHAVIOUR
+<details><summary>CLICK TO SEE</summary>
 <body class="post-template-default single single-post postid-610 single-format-standard wp-custom-logo">
 <h4><span id="Mo_dau">Mở đầu</span></h4>
 
@@ -209,3 +210,4 @@ Trong Unity có thể dùng C#, Java Script, BOO để lập trình Script.</p>
 
 
 <p>Để dọn dẹp một <span class="ph_keyword">GameObject</span> ngay lập tức mà không cần delay tới cuối frame, có thể sử dụng <span class="ph_keyword">DestroyImmediate</span>, tuy nhiên Unity khuyến cáo là chỉ nên sử dụng khi debug và không nên sử dụng trong game.</p>
+</details>
