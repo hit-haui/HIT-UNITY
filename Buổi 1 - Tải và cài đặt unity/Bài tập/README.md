@@ -1,2 +1,2 @@
 # BÀI TẬP
-[![](https://img.youtube.com/vi/VID/0.jpg)](https://user-images.githubusercontent.com/52252046/103862618-ff918780-50f1-11eb-847d-2fc4c3e65707.mp4)
+![homework](https://user-images.githubusercontent.com/52252046/103863117-d45b6800-50f2-11eb-94ff-210b7d8b07a5.gif)
