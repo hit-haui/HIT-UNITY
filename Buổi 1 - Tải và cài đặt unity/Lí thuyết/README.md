@@ -1,10 +1,10 @@
 # Lý Thuyết
 
+## TÌM HIỂU VỀ UNITY ENGINE
 
- <body >
-  
-<h2>CHƯƠNG 1: TÌM HIỂU VỀ UNITY ENGINE</h2>
-<h2>I.	Các thành phần trong Unity Editor</h2>
+<details><summary>CLICK TO SEE</summary>
+###	Các thành phần trong Unity Editor
+<body >
 <p><img src="https://images.viblo.asia/a8b99650-c3fd-43f2-939b-fc8f0fa8fa19.png" alt="" data-src="https://images.viblo.asia/a8b99650-c3fd-43f2-939b-fc8f0fa8fa19.png" data-zoom-src="https://images.viblo.asia/full/a8b99650-c3fd-43f2-939b-fc8f0fa8fa19.png" srcset="https://images.viblo.asia/retina/a8b99650-c3fd-43f2-939b-fc8f0fa8fa19.png 2x"></p>
 <h3>1.Cửa sổ Sences</h3>
 <ul>
@@ -64,3 +64,6 @@ Trong Unity có thể dùng C#, Java Script, BOO để lập trình Script.</p>
 <p>Là một game object đặc biệt trong scene, dùng để xác định tầm nhìn, quansát các đối tượng khác trong game.</p>
 <h3>12. Transform</h3>
 <p>Là 3 phép biến đổi tịnh tiến, quay theo các trục, và phóng to thu nhỏ một đối tượng</p>
+</details>
+
+ 
