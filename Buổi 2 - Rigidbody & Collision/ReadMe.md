@@ -57,7 +57,7 @@
   <p>Có các loại Collider 2D khác nhau: Box Collider 2D, Casule Collider 2D, Circle Collider 2D,... Tùy thuộc vào hình dạng của sprite để sử dụng cho hợp lý. Tất cả đều có các thuộc tính giống nhau nên ở đây sẽ tìm hiểu về BoxCollider2D</p>
   <img src="https://user-images.githubusercontent.com/50346687/104216725-04956480-546d-11eb-8153-8b1e16cb3b26.png"/>
   <img src="https://user-images.githubusercontent.com/50346687/104218304-2263c900-546f-11eb-8a15-6e25dc06c3e4.png"/>
-  <details><summary>Vùng va chạm (khu vực mà có thể va chạm với các vật thể khác)</summary>
+  <details><summary>Vùng va chạm (khu vực mà có thể va chạm với các vật thể khác cũng có vùng va chạm)</summary>
   <li>Size: size của Vùng va chạm :))</li>
   <li>Offset: Vị trí bị lệch trên hệ tọa độ Oxy so với gốc ban đầu của Vùng va chạm </li>
   <li>Edit Collider: Điều chỉnh được Vùng va chạm trực tiếp trên Scene Window. Ấn và kéo các điểm như hình dưới để điều chỉnh</li>
