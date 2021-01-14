@@ -1,5 +1,5 @@
 # Buổi 2: Rigidbody & Collision
-## Yêu cầu thực hành. Nghịc các thông số của 2 Component này. 
+## Yêu cầu thực hành. Nghịch các thông số của 2 Component này. 
 ## Lý thuyết
 <details><summary>Rigidbody2D</summary>
   <details><summary>Manual</summary>
