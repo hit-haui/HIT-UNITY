@@ -8,7 +8,7 @@
 ## Mục lục
 - [Lời giới thiệu](#Giới-thiệu)
     - [Ý nghĩa](#Ý-nghĩa)
-- [Lịch sử phát triển](Lịch-sử-phát-triển)
+- [Lịch sử phát triển](#Lịch-sử-phát-triển)
     - [Xây dựng](#Xây-dựng)
     - [Người sáng lập](#Người-sáng-lập)
 - [Môi trường](#Môi-trường)
