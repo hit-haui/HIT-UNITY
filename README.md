@@ -1,5 +1,5 @@
 # HIT-UNITY
 Nhóm Unity của clb học tập HIT
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/52252046/104692531-bcab6180-573a-11eb-98da-034f75882361.gif" height="400" width="600" alt="Wa du hek">
+	<img src="https://user-images.githubusercontent.com/52252046/104693596-853db480-573c-11eb-9e15-bf031cfdba40.png" height="460" width="680" alt="Wa du hek">
 </div>
