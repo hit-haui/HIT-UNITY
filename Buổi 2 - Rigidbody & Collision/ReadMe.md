@@ -76,5 +76,5 @@
   <li>OnCollisionEnter2D</li>
   <li>OnCollisionStay2D</li>
   <li>OnCollisionExit2D</li>
-  <h3>Yêu cầu mọi người đọc trước. Lên lớp mới hiểu được</h3>
   </details>
+    <h3>Yêu cầu mọi người đọc trước. Lên lớp mới hiểu được</h3>
