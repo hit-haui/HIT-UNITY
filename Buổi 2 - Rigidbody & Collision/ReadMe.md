@@ -1,7 +1,7 @@
 # Buổi 2: Rigidbody & Collision
 ## Yêu cầu thực hành. Nghịch các thông số của 2 Component này. 
 ## Lý thuyết
-<details><summary>Rigidbody2D</summary>
+### Rigidbody2D
   <details><summary>Manual</summary>
   <p>Nguồn tham khảo đầu tiên => Unity Documentation</br>Các bạn đọc kết hợp giữa Unity docs và docs trên Github, nếu có không hiểu đoạn nào thì nhắn tin trong nhóm. Tập dần cho quen đi thôi!!!<p>
   [Unity Docs](https://docs.unity3d.com/Manual/class-Rigidbody2D.html)
@@ -38,7 +38,6 @@
   <h3>Trên [Unitydocs](https://docs.unity3d.com/Manual) có hết nhá. Khi tìm hiểu được những phần bên trên thì cũng nên tự tìm hiểu về các phần này</h3>
   <h5>Một phần khá thú vị là hệ thống Joint của Unity. Các bạn sẽ tìm hiểu cái này sau khi hiểu về Rigidbody và Collision. Đừng tham, tẩu hỏa nhập ma đấy!</h5>
   </details>
-  </details>
   <details><summary>Scripting</summary>
   <h5>Một số keyword để mọi người tìm hiểu => Tra keyword + "Unity docs"</h5>
   [Unity docs](https://docs.unity3d.com/ScriptReference/Rigidbody2D.html)
@@ -51,7 +50,7 @@
   <h3>Yêu cầu mọi người đọc trước. Lên lớp mới hiểu được</h3>
   </details>
 </details>
-<details><summary>Collision2D</summary>
+### Collision2D
   <details><summary>Manual</summary>
   <p>Collision là va chạm </br>Collider là vật va chạm</br> Vậy, hệ thống này sử dụng để mô phỏng va chạm giữa các vật thể với nhau (các GameOject đều yêu cầu có Collider 2D)
   <p>Có các loại Collider 2D khác nhau: Box Collider 2D, Casule Collider 2D, Circle Collider 2D,... Tùy thuộc vào hình dạng của sprite để sử dụng cho hợp lý. Tất cả đều có các thuộc tính giống nhau nên ở đây sẽ tìm hiểu về BoxCollider2D</p>
@@ -77,4 +76,3 @@
   <li>OnCollisionExit2D</li>
   <h3>Yêu cầu mọi người đọc trước. Lên lớp mới hiểu được</h3>
   </details>
-</details>
