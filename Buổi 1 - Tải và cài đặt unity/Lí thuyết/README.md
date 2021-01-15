@@ -1,9 +1,8 @@
 # Lý Thuyết
 
 ## TÌM HIỂU VỀ UNITY ENGINE
-
-<details><summary>CLICK TO SEE</summary>
 ###	Các thành phần trong Unity Editor
+<details><summary>CLICK TO SEE</summary>
 <body >
 <p><img src="https://images.viblo.asia/a8b99650-c3fd-43f2-939b-fc8f0fa8fa19.png" alt="" data-src="https://images.viblo.asia/a8b99650-c3fd-43f2-939b-fc8f0fa8fa19.png" data-zoom-src="https://images.viblo.asia/full/a8b99650-c3fd-43f2-939b-fc8f0fa8fa19.png" srcset="https://images.viblo.asia/retina/a8b99650-c3fd-43f2-939b-fc8f0fa8fa19.png 2x"></p>
 <h3>1.Cửa sổ Sences</h3>
