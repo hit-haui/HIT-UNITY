@@ -49,7 +49,7 @@
   <li>Rigidbody2D.MoveRotation</li>
   <h3>Yêu cầu mọi người đọc trước. Lên lớp mới hiểu được</h3>
   </details>
-</details>
+
 ### Collision2D
   <details><summary>Manual</summary>
   <p>Collision là va chạm </br>Collider là vật va chạm</br> Vậy, hệ thống này sử dụng để mô phỏng va chạm giữa các vật thể với nhau (các GameOject đều yêu cầu có Collider 2D)
