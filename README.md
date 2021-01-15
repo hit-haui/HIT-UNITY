@@ -13,7 +13,7 @@
 - [Game](#Game)
     - [Các thể loại game](#Các-thể-loại-game)
     - [Một số game](#Một-số-game)
-- [Công ty trong nước](#Môi-trường)
+- [Công ty game trong nước](#Công-ty-game-trong-nước)
 - [Link tham khảo](#Link-tham-khảo)
 
 
@@ -50,7 +50,7 @@
 #### Game nước ngoài
 - updating: ...
 
-## Các công ty game trong nước
+## Công ty game trong nước
 - updating: ...
 
 ## Link tham khảo
