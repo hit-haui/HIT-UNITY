@@ -38,6 +38,7 @@
   <h3>Trên [Unitydocs](https://docs.unity3d.com/Manual) có hết nhá. Khi tìm hiểu được những phần bên trên thì cũng nên tự tìm hiểu về các phần này</h3>
   <h5>Một phần khá thú vị là hệ thống Joint của Unity. Các bạn sẽ tìm hiểu cái này sau khi hiểu về Rigidbody và Collision. Đừng tham, tẩu hỏa nhập ma đấy!</h5>
   </details>
+  </details>
   <details><summary>Scripting</summary>
   <h5>Một số keyword để mọi người tìm hiểu => Tra keyword + "Unity docs"</h5>
   [Unity docs](https://docs.unity3d.com/ScriptReference/Rigidbody2D.html)
@@ -49,6 +50,7 @@
   <li>Rigidbody2D.MoveRotation</li>
   <h3>Yêu cầu mọi người đọc trước. Lên lớp mới hiểu được</h3>
   </details>
+</details>
 
 ### Collision2D
   <details><summary>Manual</summary>
