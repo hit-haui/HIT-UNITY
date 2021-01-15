@@ -7,7 +7,6 @@
 
 ## Mục lục
 - [Lời giới thiệu](#Giới-thiệu)
-    - [Ý nghĩa](#Ý-nghĩa)
 - [Lịch sử phát triển](#Lịch-sử-phát-triển)
     - [Xây dựng](#Xây-dựng)
     - [Người sáng lập](#Người-sáng-lập)
@@ -16,7 +15,6 @@
 
 
 ## Giới thiệu
-### Ý nghĩa
 - Lời giới thiệu: Nhóm HIT-UNITY là nhóm học do clb HIT tổ chức nhằm đạo tạo và chia sẻ các kiến thức liên quan tới Unity game.
 - Ngoài ra do nhu cầu về sự phát triển của lập trình game. Việc lập nhóm nâng cao các kiến thức bên ngoài liên quan cụ thể đến lĩnh vực làm game.
 - Không chỉ chia sẻ kiến thức. HIT-UNITY còn nhắm đến khả năng nâng cao trình độ lập trình cá nhân và hơn hết là lập trình nhóm.
@@ -24,13 +22,14 @@
 ### Xây dựng
 - Nhóm được tạo từ ngày 8/12/2020.
 ### Người sáng lập
-- Người sáng lập: Hoàng Văn Thụ
+- Người sáng lập: **Hoàng Văn Thụ**
 	- Facebook: [Nhấn vào đây](https://www.facebook.com/sThunderSwords/)
 	- Github: [Nhấn vào đây](https://github.com/ThunderSword99)
 	- Gmail: guardian.of.gods99@gmail.com
-- Người sáng lập: Phan Đắc Sơn
+- Người sáng lập: **Phan Đắc Sơn**
 	- Facebook: [Nhấn vào đây](https://www.facebook.com/S2Windirect)
 	- Github: [Nhấn vào đây](https://github.com/S2Wind)
 	- Gmail: ...
 ## Môi trường
 ## Link tham khảo
+- [Unity](https://unity.com/) - About all of Unity: Download, guild, products, ...
