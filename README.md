@@ -10,7 +10,8 @@
 - [Lịch sử phát triển](#Lịch-sử-phát-triển)
     - [Xây dựng](#Xây-dựng)
     - [Người sáng lập](#Người-sáng-lập)
-- [Môi trường](#Môi-trường)
+- [Game trong nước](#Môi-trường)
+- [Công ty trong nước](#Môi-trường)
 - [Link tham khảo](#Link-tham-khảo)
 
 
@@ -30,6 +31,11 @@
 	- Facebook: [Nhấn vào đây](https://www.facebook.com/S2Windirect)
 	- Github: [Nhấn vào đây](https://github.com/S2Wind)
 	- Gmail: ...
-## Môi trường
+## Game
+### Các thể loại game
+### Một số game
+#### Game trong nước
+#### Game nước ngoài
+
 ## Link tham khảo
 - [Unity](https://unity.com/) - About all of Unity: Download, guild, products, ...
