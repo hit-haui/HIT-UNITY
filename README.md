@@ -10,7 +10,9 @@
 - [Lịch sử phát triển](#Lịch-sử-phát-triển)
     - [Xây dựng](#Xây-dựng)
     - [Người sáng lập](#Người-sáng-lập)
-- [Game trong nước](#Môi-trường)
+- [Game](#Game)
+    - [Các thể loại game](#Các-thể-loại-game)
+    - [Một số game](#Một-số-game)
 - [Công ty trong nước](#Môi-trường)
 - [Link tham khảo](#Link-tham-khảo)
 
