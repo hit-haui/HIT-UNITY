@@ -32,7 +32,7 @@
 - Người sáng lập: **Phan Đắc Sơn**
 	- Facebook: [Nhấn vào đây](https://www.facebook.com/S2Windirect)
 	- Github: [Nhấn vào đây](https://github.com/S2Wind)
-	- Gmail: ...
+	- Gmail: phandacson213@gmail.com
 	
 ## Game
 ### Các thể loại game
