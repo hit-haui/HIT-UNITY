@@ -11,7 +11,6 @@
  <p>Yêu cầu của bài di chuyển này là phải in ra Rigidbody.velocity ra ngoài màn hình Console. 
   <br/> Sử dụng Debug.Log(value) -> value in ra giá trị của biến cho vào. "Sơn" -> Console: string-Sơn. (int)32 -> Console: int-32
  <img src="https://user-images.githubusercontent.com/50346687/105737164-311aa780-5f68-11eb-9da4-545d8b11a550.png"/>
-</details>
 <p>Tiếp theo sử dụng </p>
 <li>OnCollisionEnter2D</li>
 <li>OnCollisionStay2D</li>
@@ -19,6 +18,7 @@
 <p>Debug.Log ra màn hình như hình dưới</p>
 <img src="https://user-images.githubusercontent.com/50346687/105738898-1ba67d00-5f6a-11eb-9f9d-1d8ce5482f5c.png"/>
 <h5>Làm thêm với Trigger</h5>
+</details>
 <details><summary>Yêu cầu nâng cao</summary>
  <li>Di chuyển với velocity. Bao gồm cả nhảy</li>
  <li>Xác định việc có đang đứng trên địa hình (ground) hay không</li>
