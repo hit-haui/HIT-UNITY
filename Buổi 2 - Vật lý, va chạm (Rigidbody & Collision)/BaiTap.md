@@ -1,5 +1,5 @@
 # Bài tập buổi 2
-
+## Quay video nha
 <details><summary>Yêu cầu cơ bản</summary>
  <p>Áp dụng bài tập ở Buổi 1</p>
  <p>Di chuyển nhân vật với Rigidbody2D.velocity. Không sử dụng Transform.position như bài trước</p>
